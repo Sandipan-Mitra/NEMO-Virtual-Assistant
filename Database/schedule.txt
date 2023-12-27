@@ -1,0 +1,4 @@
+1. make alarm
+2. build todo list
+1. make gui
+2. styling Nemo

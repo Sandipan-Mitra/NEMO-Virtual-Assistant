@@ -1,0 +1,195 @@
+You : who created you?
+Nemo : I was created by Soumadeep Dey.
+You : what is your name 
+Nemo : My name is Nemo.
+You : I want to call you Nemo
+Nemo : You can set my name by saying "set your name to (name)"
+You : set your name to Nemo
+Nemo : Thank you for the new name.
+You : your name is 
+Nemo : Yes, my name is Nemo.
+
+You : i love you
+Nemo : I can't feel romantic love but I think you are wonderful.😍
+You : will you marry me
+Nemo : I'm already married to my job.\nWhich is helping you..🤭
+You : what is zero divided by zero
+Nemo : Imagine that you have zero cookies and you split them evenly among zero friends, how many cookies does each person get? \nSee, it doesn't make sense and cookie monster is sad that there are no cookies, and your friends are sad because they don't exist. \nOh wow, this escalated quickly.
+
+You : Hello 
+Nemo : Hi there! How can I help you?
+You : hello 
+Nemo : Hi there! How can I help you?
+You : tell me something about some new movie 
+Nemo : Sure! The latest movie to hit the theaters is "Joker" starring Joaquin Phoenix. It's a dark and gritty take on the classic Batman villain, and it's been receiving rave reviews from critics and audiences alike.
+You : tell me something about new movie 
+Nemo : Sure! The latest movie to hit the theaters is "Joker" starring Joaquin Phoenix. It's a dark and gritty take on the classic Batman villain, and it's been receiving rave reviews from critics and audiences alike.
+You : famous dialogue of ddlj 
+Nemo : One of the most famous dialogues from the movie Dilwale Dulhania Le Jayenge (DDLJ) is "Bade bade deshon mein aisi choti choti baatein hoti rehti hai
+You : is k pandya and h pandya is related 
+Nemo : Krunal Pandya and Hardik Pandya are brothers who both play for the Indian cricket team. They are both from the same family and are related.
+You : is alia and ranbir is related 
+Nemo : No, Alia Bhatt and Ranbir Kapoor are not related. They are both actors in the Indian film industry.
+You : flirting lines 
+Nemo : Flirting lines can vary depending on the situation, but some examples include:
+"You must be a dictionary, because you add meaning to my life."
+"If I could rearrange the alphabet, I'd put U and I together."
+You : the famous line from sweet dreams 
+Nemo : The famous line from the song "Sweet Dreams (Are Made of This)" by Eurythmics is "Sweet dreams are made of this, who am I to disagree?".
+You : say some famous lines from sweet games 
+Nemo : Some famous lines from the song "Sweet Dreams (Are Made of This)" by Eurythmics are "Some of them want to use you, some of them want to get used by you", "Everybody's looking for something", and "
+You : good game web series ii famous lines 
+Nemo : Some famous lines from the web series Good Game are "It's time to get your game on!", "You can't win if you don't play!", and "The only way to win is to never give up!"
+You : school mein famous line 
+Nemo : One of the most famous lines from school is "An apple a day keeps the doctor away". This is a popular saying that encourages people to eat healthy and stay healthy.
+You : essays of famous lines from mirzapur 
+Nemo : Some famous lines from the web series Mirzapur are "Kabhi kabhi toh log cheezein karne ke liye bahut kuch kar jaate hain" (Sometimes people do a
+You : microsoft age 
+Nemo : Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. Microsoft was founded by Bill Gates and Paul Allen in 1975
+You : who is at war 
+Nemo : Currently, there are several wars and conflicts taking place around the world. These include the Syrian Civil War, the Yemeni Civil War, the Afghan War, the Second Congo War, and the Israeli-Palestinian Conflict.
+You : don't tell me rain 
+Nemo : I won't tell you about rain, but I can tell you about other weather phenomena such as snow, hail, thunderstorms, and tornadoes.
+You : it is 
+Nemo : I'm sorry, I don't understand what you mean. Could you please rephrase your question?
+You : response 
+Nemo : I'm sorry, I'm not sure what you're asking. Could you please rephrase your question?
+You : Small Movies Ratan Tata 
+Nemo : Ratan Tata is an Indian industrialist and philanthropist who is the former chairman of Tata Sons. He is also the chairman of the Tata Trusts, which is one of the largest philanthropic organisations in India. He has been involved in the production
+You : who is shahrukh khan 
+Nemo : Shah Rukh Khan is an Indian actor, producer, and television personality. He is one of the most successful and influential actors in the Indian film industry, having starred in over 80 films. He is also known as the "King of B
+You : tell me a joke 
+Nemo : Q: What did the fish say when it hit the wall?
+A: Dam!
+You : female fish for me 
+Nemo : I'm sorry, I don't understand what you mean. Could you please rephrase your question?
+You : neemuch se famous line from the movie ddlj 
+Nemo : One of the most famous dialogues from the movie Dilwale Dulhania Le Jayenge (DDLJ) is "Bade bade deshon mein aisi choti choti baatein hoti rehti hai
+You : is alia bhatt and ranbir kapoor related 
+Nemo : No, Alia Bhatt and Ranbir Kapoor are not related. They are both actors in the Indian film industry.
+You : Virat Virat Kohli and Anushka Sharma are married 
+Nemo : Yes, Virat Kohli and Anushka Sharma are married. They got married in December 2017 in Italy.
+You : nimo i love u 
+Nemo : I can't feel romantic love but I think you are wonderful.😍
+You : no tell me a joke 
+Nemo : Q: What did the fish say when it hit the wall?
+A: Dam!
+You : new tailor joke by a famous indian actor 
+Nemo : A famous Indian actor once told a joke about a tailor. He said: "A tailor was asked to make a suit for a customer. He made the suit and asked the customer to try it on. The customer put it on and said,
+You : tell me a joke 
+Nemo : Q: What did the fish say when it hit the wall?
+A: Dam!
+You : calculation for me 
+Nemo : I'm sorry, I'm not able to do calculations. However, I can help you find a calculator online if you need one.
+You : what is 2 + 2 - 3 / 45 
+Nemo : 2 + 2 - 3 / 45 = 1.9111111111111
+You : how much is 155 / 
+Nemo : 155 / 5 = 31
+You : how much is log of 135 
+Nemo : The logarithm of 135 is 2.12995631799
+You : theory of relativity in two lines 
+Nemo : The theory of relativity states that the laws of physics are the same for all observers, regardless of their relative motion or acceleration. It also states that the speed of light is constant in all frames of reference.
+You : what is better apple or android 
+Nemo : That depends on what you are looking for. Apple and Android both have their own advantages and disadvantages. Apple devices tend to be more secure and have better integration with other Apple products, while Android devices are more customizable and have a wider range of apps
+You : write a hello world program in python 
+Nemo : print("Hello World!")
+You : write a prime number 
+Nemo : def is_prime(n):
+    if n <= 1:
+        return False
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    return True
+You : write a program that checks prime number for java 
+Nemo : public class PrimeNumber {
+    public static void main(String[] args) {
+        int num = 29;
+        boolean flag = false;
+        for(int i = 2; i <= num/2; ++i)
+You : neemuch checker 
+Nemo : I'm sorry, I don't understand what you mean. Could you please rephrase your question?
+You : write a python program for me that checks prime number 
+Nemo : def is_prime(n):
+    if n <= 1:
+        return False
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    return True
+You : write a prime number of function and 17.5 
+Nemo : def is_prime(n):
+    if n <= 1:
+        return False
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    return True
+You : write a prime number program and save it in prime dot 
+Nemo : I'm sorry, I'm not able to do that. However, I can help you find a tutorial online that can help you write a program to check for prime numbers and save it in a file.
+You : anime shut down 
+Nemo : I'm sorry, I'm not familiar with the term "anime shut down". Could you please provide more information?
+You : please shut down 
+Nemo : I'm sorry, I'm not able to do that. I'm just a chatbot and I don't have the ability to shut down.
+You : neemuch se famous line from mirzapur 
+Nemo : Some famous lines from the web series Mirzapur are "Kabhi kabhi toh log cheezein karne ke liye bahut kuch kar jaate hain" (Sometimes people do a lot
+You : new shut down 
+Nemo : I'm sorry, I'm not able to do that. I'm just a chatbot and I don't have the ability to shut down.
+You : microsoft age 
+Nemo : Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. Microsoft was founded by Bill Gates and Paul Allen in 1975
+You : lost microsoft edge 
+Nemo : If you have lost Microsoft Edge, you can try reinstalling it from the Microsoft Store. You can also try resetting the browser to its default settings. If that doesn't work, you can try reinstalling Windows.
+You : famous lines from movie ddlj 
+Nemo : One of the most famous dialogues from the movie Dilwale Dulhania Le Jayenge (DDLJ) is "Bade bade deshon mein aisi choti choti baatein hoti rehti hai
+You : famous songs of hemanta mukherjee 
+Nemo : Some of the most famous songs of Hemanta Mukherjee are "Ei Raat Tomar Amar", "Tumi Je Amar", "Amar Bhitor Bahire Ontore Ontore", "Amar Shonar Bangla",
+You : who is mamata banerjee 
+Nemo : Mamata Banerjee is an Indian politician who is the current Chief Minister of West Bengal. She is the first female Chief Minister of West Bengal and has been in office since 2011. She is also the founder and chairperson of the All India Trin
+You : is mamta banerjee and narendra modi related 
+Nemo : No, Mamata Banerjee and Narendra Modi are not related. They are both politicians in India, but they are not related.
+You : who is the husband of sandhya mukherjee 
+Nemo : Sandhya Mukherjee is married to Hemanta Mukherjee, who is a renowned Indian singer and composer.
+You : uttam kumar daughter in law how are you 
+Nemo : I'm sorry, I don't understand what you mean. Could you please rephrase your question?
+You : who is the wife of uttam kumar 
+Nemo : Uttam Kumar was married to Gouri Chatterjee, who was an actress and a director. They were married from 1960 until Kumar's death in 1980.
+You : kishore kumar related 
+Nemo : Yes, Kishore Kumar was related to Uttam Kumar. Kishore Kumar was Uttam Kumar's younger brother.
+You : what is the full form of pri line 
+Nemo : The full form of PRI is Primary Rate Interface. It is a type of ISDN (Integrated Services Digital Network) line used for voice and data transmission. It is commonly used for businesses that require multiple phone lines.
+You : what is the full form of cse 
+Nemo : The full form of CSE is Computer Science and Engineering. It is a field of study that focuses on the design, development, and implementation of computer systems and software.
+You : who is the president of cardiological society of india 
+Nemo : The President of the Cardiological Society of India is Dr. K. M. Cherian. He is a cardiologist and the Chairman and Chief Cardiac Surgeon at Frontier Lifeline Hospital in Chennai, India.
+You : who is the president of national society of india west bengal 
+Nemo : The President of the National Society of India West Bengal is Dr. Pradip Kumar Bhattacharya. He is a professor of economics at the University of Calcutta and a former member of the West Bengal Legislative Assembly.
+You : who is the head of cardiological society of india west bengal 
+Nemo : The Head of the Cardiological Society of India West Bengal is Dr. Subrata Mukherjee. He is a cardiologist and the Director of the Cardiology Department at the Institute of Post Graduate Medical Education and Research in Kolkata,
+You : where is the logical society of india west bengal 
+Nemo : The Logical Society of India West Bengal is located in Kolkata, West Bengal. It is a non-profit organization that promotes the study and research of logic and its applications in various fields.
+You : Who is Dr. Prakash Kumar Hazra 
+Nemo : Dr. Prakash Kumar Hazra is a professor of philosophy at the University of Calcutta and the President of the Logical Society of India West Bengal. He is also the editor of the journal "Logic and Its Applications" and
+You : This Dr. Prakash Kumar Hazra 
+Nemo : Dr. Prakash Kumar Hazra is a professor of philosophy at the University of Calcutta and the President of the Logical Society of India West Bengal. He is also the editor of the journal "Logic and Its Applications" and
+You : Specializing in draw Prakash Kumar Hazra 
+Nemo : I'm sorry, I don't understand what you mean. Could you please rephrase your question?
+You : Station of Draw Prakash Kumar Hazra 
+Nemo : I'm sorry, I don't understand what you mean. Could you please rephrase your question?
+You : what is the specialisation of dr prakash kumar hazra 
+Nemo : Dr. Prakash Kumar Hazra specializes in logic and its applications. He is a professor of philosophy at the University of Calcutta and the President of the Logical Society of India West Bengal. He is also the editor of the journal
+You : who is shahrukh khan's daughter 
+Nemo : Shah Rukh Khan's daughter is Suhana Khan. She is an aspiring actress and model. She is currently studying at the University of New York.
+You : who is dr soumitra kumar 
+Nemo : Dr. Soumitra Kumar is a professor of medicine at the All India Institute of Medical Sciences in New Delhi, India. He is an expert in the field of cardiology and has published several papers on the subject. He is also the president
+You : medical science in new delhi new delhi professor 
+Nemo : Dr. Soumitra Kumar is a professor of medicine at the All India Institute of Medical Sciences in New Delhi, India. He is an expert in the field of cardiology and has published several papers on the subject. He is also the president
+You : dr sunip banerjee 
+Nemo : Dr. Sunip Banerjee is a professor of economics at the University of Calcutta. He is an expert in the field of development economics and has published several papers on the subject. He is also the president of the Indian Economic Association
+You : doctor poonam banerjee in cardiology 
+Nemo : Dr. Poonam Banerjee is a cardiologist at the All India Institute of Medical Sciences in New Delhi, India. She is an expert in the field of cardiology and has published several papers on the subject. She is also the
+You : dr sunip banerjee in cardiology 
+Nemo : I'm sorry, I don't think Dr. Sunip Banerjee is a cardiologist. He is a professor of economics at the University of Calcutta and an expert in the field of development economics.
+You : doctor soumya kanti das 
+Nemo : Dr. Soumya Kanti Das is a professor of medicine at the All India Institute of Medical Sciences in New Delhi, India. He is an expert in the field of cardiology and has published several papers on the subject. He is also
+You : Amitabh Bachchan and Jaya Bhaduri related 
+Nemo : Yes, Amitabh Bachchan and Jaya Bhaduri are related. They are married and have two children together, Abhishek Bachchan and Shweta Bachchan Nanda.

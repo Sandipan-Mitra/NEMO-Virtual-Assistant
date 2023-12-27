@@ -1,0 +1,32 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","launch","start","visit"
+             ],
+            "responses":["open"
+            ]
+        },
+        {
+            "tag":"time",
+            "patterns":["time","date","day","week","year"
+             ],
+            "responses":["time"
+            ]
+        },
+        {
+            "tag":"screenshoot",
+            "patterns":["screenshot","snap","capture","print screen"
+             ],
+            "responses":["screenshot"
+            ]
+        },
+        {
+            "tag":"temperature",
+            "patterns":["temperature","weather","forecast"
+             ],
+            "responses":["temperature"
+            ]
+        }
+    ]
+}
