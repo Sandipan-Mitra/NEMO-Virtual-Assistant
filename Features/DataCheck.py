@@ -1,7 +1,5 @@
 from Features.Face.Ear import understand
 from Features.Face.Mouth import speak
-# from Face.Ear import understand
-# from Face.Mouth import speak
 
 def isCorrect(topic):
     while True:
@@ -18,7 +16,7 @@ def isCorrect(topic):
 def isBlank(topic, topic_msg):
     while len(topic) == 0:
         speak(f"You haven't said anything. Please tell {topic_msg.lower()}.")
-        speak(topic_msg)
+        # speak(topic_msg)
         topic = understand()
         if len(topic) != 0:
             break

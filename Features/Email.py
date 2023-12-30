@@ -7,10 +7,6 @@ from Features.Face.Ear import understand
 from Features.Face.Mouth import speak
 from Features.DataCheck import isBlank, isCorrect
 import Features.Database as db
-# import Database as db
-# from Face.Ear import understand
-# from Face.Mouth import speak
-# from DataCheck import isBlank, isCorrect
 
 def add_email_to_contact():
         speak("Please type the name of the person below")

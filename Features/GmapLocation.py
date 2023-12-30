@@ -22,7 +22,7 @@ def Getgmaplocation(place):
     place = place.replace("want to","")
     place = place.replace("go","")
     url_place = "https://www.google.com/maps/place/" + place
-    geolocator = Nominatim(user_agent="myGeocoder")
+    geolocator = Nominatim(user_agent="my-Geocoder")
     location = geolocator.geocode(place , addressdetails = True)
     target_latlon = location.latitude , location.longitude
     location = location.raw['address']

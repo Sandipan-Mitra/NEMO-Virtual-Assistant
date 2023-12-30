@@ -2,6 +2,7 @@ from Features.Face.Mouth import speak
 from Features.Face.Ear import understand
 from Features.DataCheck import isBlank, isCorrect
 import os
+os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 from playsound import playsound
 import datetime as dt
 from plyer import notification
@@ -14,10 +15,10 @@ def set_schedule():
     response = isBlank(response, "Do you want to clear all previous tasks?")
     tasks_len = 0
     if "yes" in response or "clear" in response or "delete" in response or "erase" in response:
-        with open("Database//schedule.txt","w") as f:
+        with open("Data//schedule.txt","w") as f:
             f.write("")
     elif "no" in response or "keep" in response or "leave it" in response or "dont" in response:
-        with open("Database//schedule.txt","r") as f:
+        with open("Data//schedule.txt","r") as f:
             tasks_len = len(f.readlines())
 
     speak("Type below how many tasks do you want to add in your schedule?")
@@ -25,17 +26,17 @@ def set_schedule():
     speak("Type the tasks you want to add in your schedule below")
     for i in range(tasks_no):
         tasks.append(input("Enter the task: "))
-        with open("Database//schedule.txt",'a') as f:
+        with open("Data//schedule.txt",'a') as f:
             f.write(f"{tasks_len+i+1}. {tasks[i]}\n")
 
 def get_schedule():
-    with open("Database//schedule.txt","r") as f:
+    with open("Data//schedule.txt","r") as f:
             tasks_len = len(f.readlines())
     if tasks_len == 0:
         speak("Your schedule is empty.")
         return
     else:
-        with open("Database//schedule.txt","r") as f:
+        with open("Data//schedule.txt","r") as f:
             tasks = f.read()
         #Music
         mixer.init()

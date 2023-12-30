@@ -1,5 +1,4 @@
 import os
-import subprocess
 import keyboard
 import pyautogui
 import webbrowser
@@ -93,6 +92,7 @@ close_apps = {
     "excel": "EXCEL",
     "powerpoint": "POWERPNT",
     "microsoft edge": "msedge",
+    "browser": "msedge",
     "vlc media player": "vlc",
     "notepad": "notepad",
     "command prompt": "cmd",

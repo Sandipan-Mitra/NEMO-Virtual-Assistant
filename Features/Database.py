@@ -5,7 +5,7 @@ client = pymongo.MongoClient("mongodb://localhost:27017/")
 # Database Name
 db = client["NemoVA"]
 # Collection Name
-col = db["Nemo_DB"]
+col = db["Admindetails"]
 
 
 def Infodetails(uname):

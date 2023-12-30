@@ -2,19 +2,19 @@ import os, time, pywhatkit
 import pyautogui
 from Face.Ear import understand
 from Face.Mouth import speak
-import webbrowser
 from bs4 import BeautifulSoup
 from datetime import datetime
 from datetime import timedelta
+import json
 
 strTime = int(datetime.now().strftime("%H"))
 update = int((datetime.now() + timedelta(minutes = .0)).strftime("%M"))
-contacts = {
-    "myself": "+916291528931",
-    "suravi": "+917908329678",
-    "pratibha": "+919749756954",
-    "sandipan": "+919051152279"
-}
+
+with open("Data\\Contacts.txt", "r") as file:
+    data = file.read()
+contacts = json.loads(data)
+
+    
 def send_msg():
     speak("Who do you want to msg?")
     print("Contacts List:")
